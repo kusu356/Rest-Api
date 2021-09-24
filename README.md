@@ -4,6 +4,6 @@ GET: to get all the courses.
 POST: to add new courses.
 PUT:to update a course.
 DELETE: to delete a particular course.
-Technology Used: SpringBoot & Hibernate
+Technology Used: SpringBoot
 Database: MySql
 Embedded Server: Tomcat
